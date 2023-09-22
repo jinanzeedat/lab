@@ -1,0 +1,9 @@
+Jinan zeedat 
+$ git init
+$ git clone https://github.com/jinanzeedat/lab.git
+$ cd C:\Users\eng moh\Documents\lab\lab
+$ cd lab/
+$ git add .
+$ git commit -m"second"
+$ git push
+
