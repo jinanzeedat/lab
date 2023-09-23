@@ -1,0 +1,11 @@
+git config --global user.name "lamaRatib"
+git config --global user.email "201153@ppu.edu.ps"
+git init
+git clone https://github.com/jinanzeedat/lab.git
+cd lab/
+git add .
+git commit -m "Add Lama File"
+git push
+git add .
+git commit -m "Edit Lama File"
+git push
